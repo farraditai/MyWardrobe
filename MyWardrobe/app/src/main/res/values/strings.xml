@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MyWardrobe</string>
+
+    <string name="event_name">Jenis Acara</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string-array name="data_name">
+        <item>Resmi</item>
+        <item>Nikahan</item>
+        <item>Keagamaan</item>
+        <item>Adat</item>
+        <item>Kerja</item>
+        <item>Wawancara</item>
+        <item>Kuliah</item>
+        <item>Sekolah</item>
+        <item>Wisata</item>
+        <item>Ngumpul bersama teman</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Untuk acara resmi biasanya pakaiannya adalah jas dan kemeja. Berikut adalah contoh-contoh jas dan kemeja yang dipakai untuk acara resmi </item>
+        <item>Pada acara nikahan, pakaian bisa bergantung pada daerah dan adat masing-masing. Biasanya orang akan memakai baju kebaya. Pada zaman sekarang, kebaya juga sudah mengikuti zaman. Berikut adalah contoh-contoh baju kebaya</item>
+        <item>Baju muslim merupakan pakaian yang dipakai pada acara keagamaan. Pakaian yang menutupi aurat dan tidak membentuk lekuk tubuh. Berikut adalah contoh-contoh baju muslim</item>
+        <item>Pakaian adat beragam macamnya. Setiap daerah mempunyai pakaian adat masing-masing. Berikut adalah contoh pakaian adat berbagai daerah</item>
+        <item>Pakaian kerja</item>
+        <item>Pakaian wawancara</item>
+        <item>Pakaian kuliah</item>
+        <item>Untuk seragam sekolah, sekolah negeri memakai baju putih dan bawahan celana untuk laki-laki dan rok untuk perempuan. Warna celana/rok berdasarkan tingkatan sekolah. Berikut contoh-contoh seragam sekolah</item>
+        <item>Pakaian wisata</item>
+        <item>Pakaian ngumpul bersama teman</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://3.bp.blogspot.com/-PONGcAzZNGU/VVebhtIPDyI/AAAAAAAAAEc/VFOaxs5NnEM/s1600/tips-memilih-jas-Photo-from-www.bhs_.co_.uk_.jpg</item>
+        <item>https://haigadis.com/wp-content/uploads/2019/09/Gaun-pengantin-muslimah-putih-bertema-rustic.jpg</item>
+        <item>https://media.serbada.com/product/img/original/2020/04/21/51086-baju-muslim-wanita-gamis-syari-couple-ibu-dan-anak-helena-terbaru.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/post/20190704/baju-adat-jawa-timur-1-1cadf53ee07a811b663b35d9d22531c0.jpg</item>
+        <item>https://www.seragamharmas.com/wp-content/uploads/2018/12/baju-kerja-KK-004.jpg</item>
+        <item>https://blog.jobsmart.co.id/wp-content/uploads/2016/01/Classic-Power-Suit.jpg</item>
+        <item>https://cdn-image.hipwee.com/wp-content/uploads/2016/04/00-ARDIATAMI-COM.jpg</item>
+        <item>https://smkperbankanriau.sch.id/wp-content/uploads/2020/04/baju-putih-baru.jpg</item>
+        <item>https://cdn-2.tstatic.net/travel/foto/bank/images/ilustrasi_20170210_181223.jpg</item>
+        <item>https://ds393qgzrxwzn.cloudfront.net/resize/c500x500/cat1/img/images/0/KaR1e04sGF.jpg</item>
+    </string-array>
+
+</resources>
